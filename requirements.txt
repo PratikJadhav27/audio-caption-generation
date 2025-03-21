@@ -1,0 +1,14 @@
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+pickle
+opencv-python
+Pillow
+Flask
+librosa
+gtts
+jupyter
